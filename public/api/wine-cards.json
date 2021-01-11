@@ -1,0 +1,136 @@
+{
+  "personalCards": [
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/christian-patat-appassimento-2019/background.jpg",
+      "title": "In Your Wishlist",
+      "quantity": 67
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/rod-easthope-reserve-hawkes-bay-sauvignon-blanc-2020/background.jpg",
+      "title": "Tried Already",
+      "quantity": 15
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/sacchetto-col-de-l-utia-prosecco-brut-2019/background.jpg",
+      "title": "Not Tried",
+      "quantity": 235
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/hacienda-don-hernan-rioja-winemaker-s-choice-2018/background.jpg",
+      "title": "Your Rating",
+      "quantity": 16
+    }
+  ],
+  "bestCards": [
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/lay-of-the-land-marlborough-pinot-gris-2020/background.jpg",
+      "title": "Angel Exclusive",
+      "quantity": 275
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/christian-patat-primitivo-puglia-2019/background.jpg",
+      "title": "Best Sellers",
+      "quantity": 57
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/small-and-small-sylvia-reserve-sauvignon-blanc-2020/background.jpg",
+      "title": "Low In Stock",
+      "quantity": 35
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/sacchetto-col-de-lutia-frizzante-sc/background.jpg",
+      "title": "Last Chance",
+      "quantity": 23
+    }
+  ],
+  "recomendCards": [
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/lay-of-the-land-marlborough-pinot-gris-2020/background.jpg",
+      "title": "Recomendation",
+      "quantity": 10
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/christian-patat-primitivo-puglia-2019/background.jpg",
+      "title": "Medal Winner",
+      "quantity": 24
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/small-and-small-sylvia-reserve-sauvignon-blanc-2020/background.jpg",
+      "title": "New Brand",
+      "quantity": 10
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/sacchetto-col-de-lutia-frizzante-sc/background.jpg",
+      "title": "Fine Wine",
+      "quantity": 77
+    }
+  ],
+  "dietaryCards": [
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/lay-of-the-land-marlborough-pinot-gris-2020/background.jpg",
+      "title": "Vegetarian",
+      "quantity": 24
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/christian-patat-primitivo-puglia-2019/background.jpg",
+      "title": "Vegan",
+      "quantity": 2
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/small-and-small-sylvia-reserve-sauvignon-blanc-2020/background.jpg",
+      "title": "Organic",
+      "quantity": 4
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/sacchetto-col-de-lutia-frizzante-sc/background.jpg",
+      "title": "Biodynamic",
+      "quantity": 3
+    }
+  ],
+  "offerItems": [
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/kruger-family-matteo-reserve-2019/background.jpg",
+      "title": "Kruger Family Matteo Reserve 2019",
+      "winemaker": "by Johan Kruger",
+      "price": 12.99
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/galodoiro-vinho-regional-lisboa-red-2012/background.jpg",
+      "title": "Galodoro Vinho Regional Lisboa Red 2018",
+      "winemaker": "by Hermano Veloso",
+      "price": 19.99
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/villebois-brut-nv/background.jpg",
+      "title": "Villebois Cremant de Loire Brut",
+      "winemaker": "by Joost & Miguela de Villebois",
+      "price": 14.99
+    },
+    {
+      "url":
+        "https://d1sixo6y2intz2.cloudfront.net/images/merchandising/content/wines/lay-of-the-land-elevation-vineyard-sauvignon-blanc-2020/background.gif",
+      "title": "Lay of the Land Elevation Vineyard Sauvignon Blanc 2020",
+      "winemaker": "by Mike Paterson",
+      "price": 14.99
+    }
+  ]
+}
