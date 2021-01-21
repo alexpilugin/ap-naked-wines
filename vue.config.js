@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/ap-naked-wines/',
   "transpileDependencies": [
     "vuetify"
   ],
