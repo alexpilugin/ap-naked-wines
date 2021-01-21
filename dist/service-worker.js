@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e60b56e26b395c892638e7e616dfaf82.js"
+  "/ap-naked-wines/precache-manifest.b271bcc0211da99d5842dba6a42cfc03.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ap-naked-wines"});
