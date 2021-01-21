@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["wine"],{"3d93":function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"wine"},[t("h1",[e._v("This is an Wine page")])])}],c=(t("e825"),t("2877")),a={},r=Object(c["a"])(a,i,s,!1,null,"0ec6710e",null);n["default"]=r.exports},e825:function(e,n,t){"use strict";t("f16a")},f16a:function(e,n,t){}}]);
+//# sourceMappingURL=wine.e8f09971.js.map
