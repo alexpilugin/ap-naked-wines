@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["voucher"],{"52ed":function(e,t,n){},"5f27":function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"voucher"},[n("h1",[e._v("This is an Voucher page")])])}],r=(n("6402"),n("2877")),u={},i=Object(r["a"])(u,c,s,!1,null,"4803ac6f",null);t["default"]=i.exports},6402:function(e,t,n){"use strict";n("52ed")}}]);
+//# sourceMappingURL=voucher.66df028e.js.map
